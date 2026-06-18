@@ -77,3 +77,4 @@ ProjectFolder/
  │    ├── e.zip
 
 DJH Recursive Batch Folder Splitter is a powerful Windows batch script for file organization, recursive directory scanning, and batch-based folder splitting. It helps users manage large datasets, automate file sorting, and optimize disk usage with a simple no-install solution.
+more info @ https://djh.ir/recursive-batch-folder-splitter 
